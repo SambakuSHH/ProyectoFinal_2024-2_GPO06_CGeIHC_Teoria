@@ -1,0 +1,243 @@
+newmtl Trajinera_estacionada:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_mesa_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_mesa_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_mesa_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_mesa_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_piso01_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_piso01_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_piso01_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_piso01_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorBase_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorRojo_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorRojo_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorRojo_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorRojo_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorVerde_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorVerde_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorVerde_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorVerde_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorNegro_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorNegro_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorNegro_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Trajinera_estacionada:phong6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_colorNegro_trajinera.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

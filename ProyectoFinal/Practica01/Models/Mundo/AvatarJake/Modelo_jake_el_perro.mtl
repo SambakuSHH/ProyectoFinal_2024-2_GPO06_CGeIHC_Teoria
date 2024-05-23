@@ -1,0 +1,36 @@
+newmtl BigoteSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_cuerpo_modelo_jake.png
+Ni 1.00
+Ks 0.19 0.10 0.01
+Ns 47.52
+newmtl NarizSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_ojos_nariz_modelo_jake.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 29.90
+newmtl OjosSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_ojos_blanco_modelo_jake.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl OjosSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Textura_ojos_nariz_modelo_jake.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 54.25

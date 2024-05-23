@@ -1,0 +1,1080 @@
+newmtl ArbolesAzucar:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG62
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG64
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG66
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG70
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG76
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG78
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG80
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG82
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG84
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG86
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG88
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG90
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG92
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG94
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG96
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG102
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG104
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG108
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG110
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG112
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG114
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG116
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong1SG118
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_copa_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG62
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG64
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG66
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG70
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG76
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG78
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG80
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG82
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG84
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG86
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG88
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG90
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG92
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG94
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG96
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG102
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG104
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG108
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG110
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG112
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG114
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG116
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ArbolesAzucar:phong2SG118
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HV_textura_tronco_arbol_algodon_azucar.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

@@ -1,0 +1,90 @@
+newmtl Carretas:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert3_BaseColor.tga
+map_Ka Traders_wagon_lambert3_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:___Default2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd col.jpeg
+map_Ka col.jpeg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:___Default4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd col.jpeg
+map_Ka col.jpeg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:___Default7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd col.jpeg
+map_Ka col.jpeg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:___Default9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert3_BaseColor.tga
+map_Ka Traders_wagon_lambert3_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:___Default11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert3_BaseColor.tga
+map_Ka Traders_wagon_lambert3_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:polySurface114_mso
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert2_BaseColor.tga
+map_Ka Traders_wagon_lambert2_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:polySurface114_mso2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert2_BaseColor.tga
+map_Ka Traders_wagon_lambert2_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Carretas:polySurface114_mso4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Traders_wagon_lambert2_BaseColor.tga
+map_Ka Traders_wagon_lambert2_BaseColor.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

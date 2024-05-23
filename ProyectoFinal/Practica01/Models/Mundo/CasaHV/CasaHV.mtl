@@ -1,0 +1,2110 @@
+newmtl CasaHV:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup6
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup8
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup10
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup12
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup14
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup16
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup18
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup20
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup22
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup24
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup26
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup28
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup30
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup32
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup34
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup36
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup38
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup40
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup42
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup44
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup46
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup48
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup50
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup52
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup54
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup56
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup58
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup60
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup62
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup64
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup66
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:initialShadingGroup68
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaHV:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong1SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong3SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Puerta_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Puerta_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Puerta_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Puerta_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong9SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Puerta_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Puerta_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong9SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Puerta_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Puerta_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong9SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Puerta_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Puerta_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong12SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong12SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong12SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong14SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong14SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong14SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong15SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:pasted__phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong16SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong16SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:pasted__phong16SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong1SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong2SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muro_Exterior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Color_Muro_Exterior_especular.png
+Ns 18.00
+newmtl CasaHV:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong3SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Exterior_Bordes_Muros.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong4SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong6SG58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Parte_Inferior_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_Pared_especular.png
+Ns 18.00
+newmtl CasaHV:phong7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_Pared_especular.png
+Ns 18.00
+newmtl CasaHV:phong7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_Pared_especular.png
+Ns 18.00
+newmtl CasaHV:phong7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_Pared_especular.png
+Ns 18.00
+newmtl CasaHV:phong7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Techo_Pared.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Techo_Pared_especular.png
+Ns 18.00
+newmtl CasaHV:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Pared_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Pared_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Pared_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Pared_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong8SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Pared_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Pared_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong8SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Pared_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Pared_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong8SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Pared_Techo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Pared_Techo_especular.png
+Ns 18.00
+newmtl CasaHV:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_especular.png
+Ns 18.00
+newmtl CasaHV:phong10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_especular.png
+Ns 18.00
+newmtl CasaHV:phong10SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_especular.png
+Ns 18.00
+newmtl CasaHV:phong10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_especular.png
+Ns 18.00
+newmtl CasaHV:phong10SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong11SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ducto_color_Base.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ducto_color_Base_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong12SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Muros_Interior.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Muros_Interior_especular.png
+Ns 18.00
+newmtl CasaHV:phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_piso_especular.png
+Ns 18.00
+newmtl CasaHV:phong13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_piso_especular.png
+Ns 18.00
+newmtl CasaHV:phong13SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_piso_especular.png
+Ns 18.00
+newmtl CasaHV:phong13SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_piso_especular.png
+Ns 18.00
+newmtl CasaHV:phong13SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_piso.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_piso_especular.png
+Ns 18.00
+newmtl CasaHV:phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong14SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Color_Muros_Interior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CasaHV:phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong15SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong15SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong15SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Marco_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Marco_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong16SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong16SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong16SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Fachada_Textura_Ventana.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Fachada_Textura_Ventana_especular.png
+Ns 18.00
+newmtl CasaHV:phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong17SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong17SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl CasaHV:phong17SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00

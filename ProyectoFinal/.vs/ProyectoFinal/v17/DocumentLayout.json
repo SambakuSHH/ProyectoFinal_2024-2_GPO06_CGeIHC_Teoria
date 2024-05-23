@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baku_\\Desktop\\ProyectoFinal\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA08C81A-FC46-4D77-A18A-055E4655DE09}|Practica01\\Practica01.vcxproj|C:\\Users\\baku_\\Desktop\\ProyectoFinal\\ProyectoFinal\\Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA08C81A-FC46-4D77-A18A-055E4655DE09}|Practica01\\Practica01.vcxproj|solutionrelative:Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROYECTOFINAL_2024-2_GPO06.cpp",
+              "DocumentMoniker": "C:\\Users\\baku_\\Desktop\\ProyectoFinal\\ProyectoFinal\\Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp",
+              "RelativeDocumentMoniker": "Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp",
+              "ToolTip": "C:\\Users\\baku_\\Desktop\\ProyectoFinal\\ProyectoFinal\\Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp",
+              "RelativeToolTip": "Practica01\\PROYECTOFINAL_2024-2_GPO06.cpp",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAG8BAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T18:43:02.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

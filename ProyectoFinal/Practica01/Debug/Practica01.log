@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (316060497_PROYECTOFINAL_2024-2_GPO07.vcxproj, Practica01.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  PROYECTOFINAL_2024-2_GPO06.cpp
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(243,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(434,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(449,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(502,31): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(513,31): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(533,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(544,28): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(619,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(620,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(624,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(625,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(627,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Practica01\PROYECTOFINAL_2024-2_GPO06.cpp(628,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  Practica01.vcxproj -> C:\Users\baku_\Desktop\ProyectoFinal\ProyectoFinal\Debug\PROYECTOFINAL_2024-2_GPO06.exe
